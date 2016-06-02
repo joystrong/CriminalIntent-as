@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">办公记录</string>
+    <string name="title_activity_crime">记录名称</string>
+    <string name="crime_title_hint">记录</string>
+    <string name="crime_title_label">标题</string>
+    <string name="crime_details_label">详情</string>
+    <string name="crime_sloved">是否解决?</string>
+    <string name="crime_details_hint">详情</string>
+    <string name="crimes_title">Crimes</string>
+</resources>
